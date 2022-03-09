@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLIntro", "GraphQLIntro\GraphQLIntro.csproj", "{56F15C98-DDE6-4E2D-9AEC-74A07C8DE775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLHotChocolat", "GraphQLHotChocolat\GraphQLHotChocolat.csproj", "{A05CC9F3-706F-4F61-B907-F4EC7D0B87D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F15C98-DDE6-4E2D-9AEC-74A07C8DE775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F15C98-DDE6-4E2D-9AEC-74A07C8DE775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F15C98-DDE6-4E2D-9AEC-74A07C8DE775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F15C98-DDE6-4E2D-9AEC-74A07C8DE775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05CC9F3-706F-4F61-B907-F4EC7D0B87D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05CC9F3-706F-4F61-B907-F4EC7D0B87D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05CC9F3-706F-4F61-B907-F4EC7D0B87D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05CC9F3-706F-4F61-B907-F4EC7D0B87D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B4ADDC1-F9B7-4FF4-A617-DDF081C2673F}
+	EndGlobalSection
+EndGlobal

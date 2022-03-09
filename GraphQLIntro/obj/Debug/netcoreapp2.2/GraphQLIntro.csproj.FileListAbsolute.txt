@@ -1,0 +1,11 @@
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\bin\Debug\netcoreapp2.2\GraphQLIntro.deps.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\bin\Debug\netcoreapp2.2\GraphQLIntro.runtimeconfig.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\bin\Debug\netcoreapp2.2\GraphQLIntro.runtimeconfig.dev.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\bin\Debug\netcoreapp2.2\GraphQLIntro.dll
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.csprojAssemblyReference.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.csproj.CoreCompileInputs.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.AssemblyInfoInputs.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.AssemblyInfo.cs
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\bin\Debug\netcoreapp2.2\GraphQLIntro.pdb
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.dll
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLIntro\obj\Debug\netcoreapp2.2\GraphQLIntro.pdb

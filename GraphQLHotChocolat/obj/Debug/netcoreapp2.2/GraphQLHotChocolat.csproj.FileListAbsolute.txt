@@ -1,0 +1,12 @@
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\bin\Debug\netcoreapp2.2\GraphQLHotChocolat.deps.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\bin\Debug\netcoreapp2.2\GraphQLHotChocolat.runtimeconfig.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\bin\Debug\netcoreapp2.2\GraphQLHotChocolat.runtimeconfig.dev.json
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\bin\Debug\netcoreapp2.2\GraphQLHotChocolat.dll
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.csprojAssemblyReference.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.csproj.CoreCompileInputs.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.AssemblyInfoInputs.cache
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.AssemblyInfo.cs
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\bin\Debug\netcoreapp2.2\GraphQLHotChocolat.pdb
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.dll
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.pdb
+C:\Users\KVEAI58\Source\Repos\GraphQLIntro\GraphQLHotChocolat\obj\Debug\netcoreapp2.2\GraphQLHotChocolat.genruntimeconfig.cache
